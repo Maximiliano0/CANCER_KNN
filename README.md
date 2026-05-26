@@ -152,14 +152,6 @@ Para profundizar en los fundamentos matemáticos y conceptuales utilizados (KNN,
 
 ---
 
-## 👤 Autor
-
-Proyecto desarrollado como práctica de Machine Learning aplicado a datos clínicos.
-
-- 💼 GitHub: [@maxvega](https://github.com/)
-
----
-
 ## 📄 Licencia
 
 Distribuido bajo licencia **MIT**.
